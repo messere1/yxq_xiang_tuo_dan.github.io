@@ -6,7 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-姓名：yuxinqiang
-爱好：女
-性别：男
-特长：夺命十三枪
+
+姓名：yuxinqiang   爱好：女   性别：男   特长：夺命十三枪   年龄：18
